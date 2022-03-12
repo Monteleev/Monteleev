@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Monteleev
-- 👀 I’m interested in Algorithms, Graph Theory and Big Data
-- 🎵 I also like playing guitar and bass
-- 📫 You can send me a mail at spirosmess@yahoo.gr
